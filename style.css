@@ -1,0 +1,16 @@
+#real-alert {
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    border: 5px black solid;
+}
+
+#test-only {
+    color: green;
+    padding: 10px;
+    margin: 10px;
+}
+
+.missile-link {
+    display: block;
+}
